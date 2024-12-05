@@ -1,19 +1,19 @@
 {
-  "name": "Radio's Delight",
-  "short_name": "RadiosDelight",
+  "name": "Radio Norway",
+  "short_name": "RadioNOrway",
   "icons": [
     {
-      "src": "https://radiosdelight.com/img/fav_icon.png",
+      "src": "https://radio-norway.radiosdelight.com/img/fav_icon.png",
       "sizes": "16x16",
       "type": "image/png"
     },
     {
-      "src": "https://radiosdelight.com/img/fav_icon.png",
+      "src": "https://radio-norway.radiosdelight.com/img/fav_icon.png",
       "sizes": "32x32",
       "type": "image/png"
     },
     {
-      "src": "https://radiosdelight.com/img/fav_icon.png",
+      "src": "https://radio-norway.radiosdelight.com/img/fav_icon.png",
       "sizes": "192x192",
       "type": "image/png"
     }
